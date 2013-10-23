@@ -2,7 +2,7 @@ import-startssl-win
 ===================
 
 Windows PowerShell script to help with Java and the StartSSL CA certificates. 
-THis is a PowerShell version of the script at https://github.com/erasmospunk/import-startssl
+This is a PowerShell version of the script at https://github.com/erasmospunk/import-startssl
 
 In order for this to work:
 1) You need to edit the script and add the correct Java path to "$javaPath". 
